@@ -1,0 +1,12 @@
+body{background-color:black;back}
+h1{color: rgb(0, 0, 0);background-color:lightskyblue;}
+h1{font-size: 60px;}
+h3{font-size: 30px; color: white ;}
+h3{font-style: italic;} 
+h3{border-left-style: hidden;border: 0pc;}
+h1{border-width: medium;}
+body{mask-image: -o-linear-gradient(border);size-adjust: 750px;}
+body{image-resolution:http://127.0.0.1:5500/DSC_0026 ;}
+img{border: white;}
+
+body{shape-image-threshold: calc();}
